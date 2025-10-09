@@ -74,4 +74,25 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 
 This configuration allows analysis of sales data across different time periods and categories, providing the ability to drill down for detailed insights.
 
+### **Power BI Drill Options Toolbar**
+
+| Icon                      | Option                                                                                                 | Description |
+| ------------------------- | ------------------------------------------------------------------------------------------------------ | ----------- |
+| 🔽 **Drill on Rows**      | Specify whether you want to drill through rows or columns in a visual (mainly used in matrix visuals). |             |
+| ⭡ **Up Arrow**            | Move up one level in the data hierarchy.                                                               |             |
+| ⭣ **Down Arrow**          | Drill down into the next level of the hierarchy for a selected data point.                             |             |
+| ⭣⭣ **Double Down Arrows** | Drill down all at once across all categories.                                                          |             |
+| ⭳ **Split Arrows**        | Expand all levels of the hierarchy to view multiple levels together.                                   |             |
+| ⛃ **Filter Icon**         | Apply filters directly on the visual for focused analysis.                                             |             |
+| ⤢ **Focus Mode Icon**     | Expand the visual to full screen for detailed exploration.                                             |             |
+| ⋯ **More Options**        | Access additional settings such as sorting, exporting data, or formatting visuals.                     |             |
+
+**Purpose**
+
+The Drill Options Toolbar empowers users to:
+
+- 🔍 Navigate between different levels of data hierarchies.
+- 📊 Drill down for detailed insights or roll up for summarized views.
+- 🎛️ Apply filters and focus on specific visual elements.
+
 ---
