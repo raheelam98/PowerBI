@@ -1,32 +1,24 @@
 # Power BI Slicer Guide
 
-This guide provides a comprehensive overview of how to use and format slicers in Power BI, based on the latest version of the interface.
-
----
-
-## 🧭 What is a Slicer?
-
-A slicer is a visual filter that allows users to segment and analyze data interactively.
+**Slicer :** A slicer is a visual filter that allows users to segment and analyze data interactively.
 
 **How to add a slicer:**
 - Go to `Insert` → `Slicer`
 - Drag and drop the desired field (e.g., Category)
 
----
+### 🔧 Slicer Layouts & Types
 
-## 🔧 Slicer Layouts & Types
-
-### 1. Horizontal Slicer
+1. **Horizontal Slicer**
 - Format → Slicer settings → Orientation → `Horizontal`
 - Useful for dashboard-style button layouts
 
-### 2. Text Slicer
+2. **Text Slicer**
 - Drag a text field (e.g., Category) into the slicer
 
-### 3. Hierarchical Slicer
+3. **Hierarchical Slicer**
 - Drag multiple fields into the slicer (e.g., Sub-category, Segment)
 
-### 4. Button-style Slicer (City)
+4. **Button-style Slicer (City)**
 - Drag `City` field into slicer
 - Format → Slicer settings → Options → Enable `Title`
 - Format → Values → Customize font size and background color
