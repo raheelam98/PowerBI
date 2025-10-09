@@ -96,3 +96,38 @@ The Drill Options Toolbar empowers users to:
 - 🎛️ Apply filters and focus on specific visual elements.
 
 ---
+
+### **Grand Total and Subtotal in Matrix Visualization**
+
+- **Subtotals** summarize data for each row or column group.
+- **Grand totals** display the overall summary across all categories.
+
+#### Step 1: Add Data to Matrix
+- **Rows** → Add **Category** and **Sub-Category**  
+- **Values** → Add **Sales**
+
+#### Step 2: Configure Row Subtotals
+1. Go to **Format** → **Row subtotal** → **On**
+2. **Row subtotal options:**
+   - **Row level** → All / Category
+   - **Value** → Set **Text color** or **Background color**  
+     - Example: **Blue color** on total rows
+
+#### Step 3: Configure Row Grand Total
+1. Go to **Format** → **Row grand total**
+2. Apply **Background color** → **Brown** (for grand total rows)
+
+#### Step 4: Configure Column Subtotals
+1. Add **Market** to **Columns**
+2. Go to **Format** → **Column subtotal** → **On**
+3. **Values** → Apply **Background color**  
+   - Example: **Pink color** on column totals
+
+### Summary
+- **Row Subtotals:** Enabled with blue highlights  
+- **Row Grand Total:** Highlighted in brown  
+- **Column Subtotals:** Enabled with pink highlights
+
+
+This setup makes **Power BI Matrix reports** visually clear by distinguishing subtotals and grand totals with colors.
+
