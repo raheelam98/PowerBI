@@ -104,7 +104,7 @@ The Drill Options Toolbar empowers users to:
 - **Subtotals** summarize data for each row or column group.
 - **Grand totals** display the overall summary across all categories.
 
-#### Step 1: Add Data to Matrix
+**Step 1: Add Data to Matrix**
 - **Rows** → Add **Category** and **Sub-Category**  
 - **Values** → Add **Sales**
 
