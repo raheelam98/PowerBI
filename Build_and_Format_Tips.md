@@ -40,6 +40,16 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 
 **Formatting → Cell elements**
 
+| **Type**             | **Usage / Description**                                                     | **Example**                                                                |
+| -------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Background Color** | Apply color shading to cells based on value ranges to highlight variations. | Example: Shade cells by sales value (minimum, center (optional), maximum). |
+| **Font Color**       | Change text color dynamically based on data values for better readability.  | Example: Profit values – low (red), high (green).                          |
+| **Data Bars**        | Display horizontal bars within cells to visually represent data magnitude.  | Example: Show bars to illustrate discount percentages.                     |
+| **Icons**            | Add symbols or icons to convey trends or status at a glance.                | Example: Display up/down arrows for profit trends.                         |
+
+
+---
+
 | **Type**             | **Usage / Description**                   | **Example**                                                    |
 | -------------------- | ----------------------------------------- | -------------------------------------------------------------- |
 | **Background Color** | Color cells based on value ranges         | Example: Shade cells by sales value (low = light, high = dark) |
@@ -59,4 +69,19 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 
 ---
 
+### **Hierarchies in Power BI**  
 
+**Hierarchies** help organize data into multiple levels within visuals (such as Matrix or Charts), enabling drill-down or expansion from summary to detailed views.  
+
+**Steps:**  
+1. Select the **Matrix** visual.  
+2. Add fields to define a hierarchy structure.  
+
+**Example:**  
+- **Rows →** Category → Region → Segment  
+- **Columns →** Order Date (Year → Quarter → Month → Day)  
+- **Values →** Sales  
+
+This configuration allows analysis of sales data across different time periods and categories, providing the ability to drill down for detailed insights.
+
+---
