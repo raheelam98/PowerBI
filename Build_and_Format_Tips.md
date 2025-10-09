@@ -1,6 +1,6 @@
 # **Power BI Build and Format Tips**
 
-## **Table : columns**
+## **Table : columns** 
 
 #### **Table Formatting**
 
