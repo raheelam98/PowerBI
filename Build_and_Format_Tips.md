@@ -152,7 +152,11 @@ This setup makes **Power BI Matrix reports** visually clear by distinguishing su
 
 **Formatting Steps:**  
 - Select **Sales** → Set **Data Type** to *Whole Number*  
-- Select **Shipping Cost** → Apply *Currency (₤)* format  
+- Select **Shipping Cost** → Apply *Currency (₤)* format
+
+**Report View**
+1. Click on the **Report View** icon on the left sidebar.  
+2. In the **Build Visual** section, change **Table** to **Matrix** to view data in hierarchical or summarized form.
 
 **Purpose:**  
 Formatting columns ensures consistency, improves readability, and enhances clarity when analyzing data in visuals or reports.
