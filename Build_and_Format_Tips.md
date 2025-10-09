@@ -7,7 +7,7 @@
 | **Section**                 | **Purpose / Description**            | **Key Options**                                                                                                    |
 | --------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | **Format: Grid**            | Customize table structure and layout | - Set table borders (horizontal & vertical lines) <br> - Adjust border color and thickness <br> - Add cell padding |
-| **Format: Values**          | Style data rows for readability      | - Change text color <br> - Set background color <br> - Apply alternate row colors                                  |
+| **Format: Values**          | Style data rows for readability      | - Font : increat font size <br> - Change text color <br> - Set background color <br> - Apply alternate row colors                                  |
 | **Format: Column Header**   | Customize table headers              | - Set header font style and size <br> - Adjust header background and text color                                    |
 | **Format: Totals**          | Format total row                     | - Change total text color and background <br> - Adjust font style and size                                         |
 | **Format: Specific Column** | Highlight or style a single column   | - Apply custom color, font, or background to a chosen column                                                       |
