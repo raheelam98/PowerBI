@@ -40,6 +40,16 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 
 **Formatting → Cell elements**
 
+| **Type**             | **Description**                    | **Example**                                                                |
+| -------------------- | ---------------------------------- | -------------------------------------------------------------------------- |
+| **Background Color** | Shades cells based on value range. | Example: Shade cells by sales value (minimum, center (optional), maximum). |
+| **Font Color**       | Changes text color by data value.  | Example: Profit values – low (red), high (green).                          |
+| **Data Bars**        | Adds bars to show value magnitude. | Example: Add bars to display discount percentage.                          |
+| **Icons**            | Uses icons to indicate trends.     | Example: Show up/down arrows for profit.                                   |
+
+
+---
+
 | **Type**             | **Usage / Description**                                                     | **Example**                                                                |
 | -------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | **Background Color** | Apply color shading to cells based on value ranges to highlight variations. | Example: Shade cells by sales value (minimum, center (optional), maximum). |
