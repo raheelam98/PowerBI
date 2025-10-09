@@ -74,6 +74,8 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 
 This configuration allows analysis of sales data across different time periods and categories, providing the ability to drill down for detailed insights.
 
+---
+
 ### **Power BI Drill Options Toolbar**
 
 | Icon                      | Option                                                                                                 | 
