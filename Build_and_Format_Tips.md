@@ -17,7 +17,7 @@
 
 Helps **analyze and interpret data visually** by applying color or icons based on values.
 
-**Table : Formatting --> Cell elements**
+**Formatting → Cell elements**
 
 | **Type**             | **Usage / Description**                   | **Example**                                                    |
 | -------------------- | ----------------------------------------- | -------------------------------------------------------------- |
