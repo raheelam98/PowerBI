@@ -1,5 +1,5 @@
 # **Power BI Tables & Matrix Tips**
-
+  
 **Power BI Build and Format**
 
 - **Table →  columns :**   best for small, detailed data. 
