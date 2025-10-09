@@ -47,26 +47,6 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 | **Data Bars**        | Adds bars to show value magnitude. | Example: Add bars to display discount percentage.                          |
 | **Icons**            | Uses icons to indicate trends.     | Example: Show up/down arrows for profit.                                   |
 
-
----
-
-| **Type**             | **Usage / Description**                                                     | **Example**                                                                |
-| -------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| **Background Color** | Apply color shading to cells based on value ranges to highlight variations. | Example: Shade cells by sales value (minimum, center (optional), maximum). |
-| **Font Color**       | Change text color dynamically based on data values for better readability.  | Example: Profit values – low (red), high (green).                          |
-| **Data Bars**        | Display horizontal bars within cells to visually represent data magnitude.  | Example: Show bars to illustrate discount percentages.                     |
-| **Icons**            | Add symbols or icons to convey trends or status at a glance.                | Example: Display up/down arrows for profit trends.                         |
-
-
----
-
-| **Type**             | **Usage / Description**                   | **Example**                                                    |
-| -------------------- | ----------------------------------------- | -------------------------------------------------------------- |
-| **Background Color** | Color cells based on value ranges         | Example: Shade cells by sales value (low = light, high = dark) |
-| **Font Color**       | Change text color according to data value | Example: Profit values – low (red), high (green)               |
-| **Data Bars**        | Display bar visual within a cell          | Example: Add bars to show discount percentage visually         |
-| **Icons**            | Add icons for quick insights              | Example: Display up/down arrows for profit trends              |
-
 ---
 
 ### **Change Aggregation**
