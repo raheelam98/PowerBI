@@ -2,6 +2,10 @@
 
 **Slicer :** A slicer is a visual filter that allows users to segment and analyze data interactively.
 
+- Slicers enhance user experience by enabling dynamic filtering
+- Combine slicers with visuals (tables, charts) for interactive reports
+- Customize slicer appearance to match report design
+
 **How to add a slicer:**
 - Go to `Insert` → `Slicer`
 - Drag and drop the desired field (e.g., Category)
@@ -25,44 +29,31 @@
 
 ---
 
-## 🎛️ Slicer Formatting Options
+### 🎛️ Slicer Formatting Options
 
-### ✅ Multi-select Without CTRL
+**✅ Multi-select Without CTRL**
 - Format → Selection controls → Turn off `Multi-select with CTRL`
 
-### 🚫 Hide Field Name
+**🚫 Hide Field Name**
 - Format → Slicer header → Toggle `Off`
 
 ---
 
 ## 📊 Slicer Interactions with Visuals
 
-### Table Filtering
+**Table Filtering**
 - Add a table with fields like `Sub-category`, `Sales`
 - Selecting a slicer value filters the table
 - Hold `Ctrl` to select multiple categories (or enable multi-select)
 
-### Pie Chart Filtering
+**Pie Chart Filtering**
 - Pie chart setup:
   - Legend → Drag `Category`
   - Values → Drag `Sub-category`
 - Slicer selections dynamically filter the chart
 
----
-
 ## 🆕 Creating New Slicers
-
 - Add multiple slicers for enhanced dashboard interactivity
 - Use horizontal layout for button-style slicers
 
----
 
-## 📝 Notes
-
-- Slicers enhance user experience by enabling dynamic filtering
-- Combine slicers with visuals (tables, charts) for interactive reports
-- Customize slicer appearance to match report design
-
----
-
-Feel free to contribute or suggest improvements to this guide!
