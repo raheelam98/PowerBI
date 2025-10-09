@@ -4,6 +4,7 @@
 
 #### **Table Formatting**
 
+
 | **Section**                 | **Purpose / Description**            | **Key Options**                                                                                                    |
 | --------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | **Format: Grid**            | Customize table structure and layout | - Set table borders (horizontal & vertical lines) <br> - Adjust border color and thickness <br> - Add cell padding |
@@ -12,9 +13,11 @@
 | **Format: Totals**          | Format total row                     | - Change total text color and background <br> - Adjust font style and size                                         |
 | **Format: Specific Column** | Highlight or style a single column   | - Apply custom color, font, or background to a chosen column                                                       |
 
-#### **Table Conditional Formatting**
+#### **Table Conditional Formatting : Cell elements**
 
 Helps **analyze and interpret data visually** by applying color or icons based on values.
+
+**Table : Formatting --> Cell elements**
 
 | **Type**             | **Usage / Description**                   | **Example**                                                    |
 | -------------------- | ----------------------------------------- | -------------------------------------------------------------- |
