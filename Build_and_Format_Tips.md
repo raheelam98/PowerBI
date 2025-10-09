@@ -2,7 +2,7 @@
 
 ## **Table : columns** 
 
-#### **Table Formatting**
+### **Table Formatting**
 
 
 | **Section**                 | **Purpose / Description**            | **Key Options**                                                                                                    |
@@ -13,7 +13,7 @@
 | **Format: Totals**          | Format total row                     | - Change total text color and background <br> - Adjust font style and size                                         |
 | **Format: Specific Column** | Highlight or style a single column   | - Apply custom color, font, or background to a chosen column                                                       |
 
-#### **Table Conditional Formatting : Cell elements**
+### **Table Conditional Formatting : Cell elements**
 
 Helps **analyze and interpret data visually** by applying color or icons based on values.
 
@@ -26,7 +26,7 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 | **Data Bars**        | Display bar visual within a cell          | Example: Add bars to show discount percentage visually         |
 | **Icons**            | Add icons for quick insights              | Example: Display up/down arrows for profit trends              |
 
-#### **Change Aggregation**
+### **Change Aggregation**
 
 | **Table**          | **Steps**                                                                     | **Description**                              |
 | ------------------ | ----------------------------------------------------------------------------- | -------------------------------------------- |
