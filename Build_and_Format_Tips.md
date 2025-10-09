@@ -34,7 +34,7 @@
 | **Format: Specific Column** | Highlight or style a single column   | - Apply custom color, font, or background to a chosen column                                                       |
 ---
 
-### **Conditional Formatting : Cell elements**
+### **Conditional Formatting (Cell elements)**
 
 Helps **analyze and interpret data visually** by applying color or icons based on values.
 
