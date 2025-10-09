@@ -1,9 +1,28 @@
 # **Power BI Build and Format Tips**
 
-## **Table : columns** 
+- **Table →  columns**   best for small, detailed data.
+- **Matrix →  rows, columns, values** best for summarized or large, grouped data (like an Excel Pivot Table).
 
-### **Table Formatting**
 
+### **Convert Table into Matrix (and Vice Versa) in Power BI** 
+
+1. **Create a Table** first and add the desired columns (e.g., *Sub-Category*, *Region*, *Sales*).  
+2. Once the table is created, **click on the Table visual** and change it to a **Matrix visual** from the visualization pane.  
+3. The table will now be converted into a matrix while keeping the same fields.  
+
+**Example:**  
+- Create a table and add columns: *Sub-Category*, *Region*, *Sales*.  
+- Then click on **Matrix** in the Visualizations pane — the table is now converted into a matrix.
+
+---
+
+### **Copy Tool in Power BI**  
+- Right-click on the **square icon** of the visual.  
+- Select **Copy → Copy visual**.  
+- Then **Paste** it on the same or another report page.  
+
+
+### **Formatting**
 
 | **Section**                 | **Purpose / Description**            | **Key Options**                                                                                                    |
 | --------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -12,8 +31,9 @@
 | **Format: Column Header**   | Customize table headers              | - Set header font style and size <br> - Adjust header background and text color                                    |
 | **Format: Totals**          | Format total row                     | - Change total text color and background <br> - Adjust font style and size                                         |
 | **Format: Specific Column** | Highlight or style a single column   | - Apply custom color, font, or background to a chosen column                                                       |
+---
 
-### **Table Conditional Formatting : Cell elements**
+### **Conditional Formatting : Cell elements**
 
 Helps **analyze and interpret data visually** by applying color or icons based on values.
 
@@ -26,6 +46,8 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 | **Data Bars**        | Display bar visual within a cell          | Example: Add bars to show discount percentage visually         |
 | **Icons**            | Add icons for quick insights              | Example: Display up/down arrows for profit trends              |
 
+---
+
 ### **Change Aggregation**
 
 | **Table**          | **Steps**                                                                     | **Description**                              |
@@ -36,4 +58,4 @@ Helps **analyze and interpret data visually** by applying color or icons based o
 
 ---
 
-## **Matrix : rows, columns, values**
+
