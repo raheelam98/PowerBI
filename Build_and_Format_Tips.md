@@ -21,6 +21,7 @@
 - Select **Copy → Copy visual**.  
 - Then **Paste** it on the same or another report page.  
 
+---
 
 ### **Formatting**
 
