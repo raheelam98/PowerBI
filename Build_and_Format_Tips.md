@@ -130,6 +130,33 @@ The Drill Options Toolbar empowers users to:
 - **Row Grand Total:** Highlighted in brown  
 - **Column Subtotals:** Enabled with pink highlights
 
-
 This setup makes **Power BI Matrix reports** visually clear by distinguishing subtotals and grand totals with colors.
+
+---
+
+### **Column Formatting**
+
+**Steps:**
+1. Click on the **Table** icon on the left sidebar.  
+2. Go to the **Column tools** tab at the top.
+
+**Column Tools Options:**
+- **Data Type:** Whole Number / Decimal Number / Date / Text  
+- **Currency Value:** Format numeric columns as currency  
+- **Rename Column:** Change column name for better readability  
+- **Percentage (%):** Display values as percentages  
+
+#### Number Formatting Example
+
+**Table Columns :**  Sub-Category | Sales | Profit | Quantity | Shipping Cost | Region  
+
+**Formatting Steps:**  
+- Select **Sales** → Set **Data Type** to *Whole Number*  
+- Select **Shipping Cost** → Apply *Currency (₤)* format  
+
+**Purpose:**  
+Formatting columns ensures consistency, improves readability, and enhances clarity when analyzing data in visuals or reports.
+
+---
+
 
