@@ -1,5 +1,5 @@
 # **Power BI Build and Format Tips**
-
+  
 - **Table →  columns :**   best for small, detailed data. 
 - **Matrix →  rows, columns, values :** best for summarized or large, grouped data (like an Excel Pivot Table).
 
