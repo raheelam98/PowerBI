@@ -108,24 +108,24 @@ The Drill Options Toolbar empowers users to:
 - **Rows** → Add **Category** and **Sub-Category**  
 - **Values** → Add **Sales**
 
-#### Step 2: Configure Row Subtotals
+**Step 2: Configure Row Subtotals**
 1. Go to **Format** → **Row subtotal** → **On**
 2. **Row subtotal options:**
    - **Row level** → All / Category
    - **Value** → Set **Text color** or **Background color**  
      - Example: **Blue color** on total rows
 
-#### Step 3: Configure Row Grand Total
+**Step 3: Configure Row Grand Total**
 1. Go to **Format** → **Row grand total**
 2. Apply **Background color** → **Brown** (for grand total rows)
 
-#### Step 4: Configure Column Subtotals
+**Step 4: Configure Column Subtotals**
 1. Add **Market** to **Columns**
 2. Go to **Format** → **Column subtotal** → **On**
 3. **Values** → Apply **Background color**  
    - Example: **Pink color** on column totals
 
-### Summary
+**Summary**
 - **Row Subtotals:** Enabled with blue highlights  
 - **Row Grand Total:** Highlighted in brown  
 - **Column Subtotals:** Enabled with pink highlights
