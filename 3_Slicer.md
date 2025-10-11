@@ -17,7 +17,7 @@
 
 ---
 
-### Power BI Slicer Formatting and Configuration
+### Power BI Slicer 
 
 A **Slicer** in Power BI acts as a dynamic filter that allows users to interactively control visuals such as tables, charts, and KPIs.
 
