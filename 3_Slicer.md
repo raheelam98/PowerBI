@@ -27,6 +27,16 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ### Power BI Slicer Customization: Shape, Header, and Value Formatting
 
+| Category            | Description                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------------------- |
+| **Size & Style**    | Adjust slicer layout (vertical list, dropdown, between, relative time, etc.)                  |
+| **Title**           | Modify slicer title text, font, color, and alignment                                          |
+| **Slicer Settings** | Control selection behavior (single select, multi-select, select all)                          |
+| **Slicer Header**   | Customize header visibility, background color, and border styling                             |
+| **Values**          | Format slicer values — font size, color, padding, and background                              |
+| **Hierarchy**       | Build hierarchical slicers (e.g., Category → Subcategory → Segment) for multi-level filtering |
+
+
 ---
 
 ### **Slicer Settings** : **Shape of Slicer**  
