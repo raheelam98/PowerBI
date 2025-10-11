@@ -61,7 +61,6 @@
   - Date → Date Column / Date Hierarchy  
 
 ---
----
 
 A **Slicer** in Power BI acts as a dynamic filter that allows users to interactively control visuals such as tables, charts, and KPIs.
 
@@ -223,9 +222,6 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 3. **Slicer → Field:** Sales.  
 
 
----
----
----
 ---
 ---
 ---
