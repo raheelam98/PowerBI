@@ -73,7 +73,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## **Visual Filtering in Power BI: Using Slicers for Data Interaction**
+### Visual Filtering in Power BI: Using Slicers for Data Interaction
 
 ---
 
