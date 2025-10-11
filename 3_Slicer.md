@@ -15,6 +15,8 @@
 5. **Format Date Slicer**  
 6. **Number Slicer**   
 
+---
+
 ### **Slicer Settings**
 **Shape of Slicer**  
 - **Format → Slicer Settings → Option**  
@@ -29,6 +31,8 @@
 **Reset Slicer**  
 - **Format → Slicer Settings → Reset to Default**
 
+---
+
 ### **Slicer Header**
 **Format Header Options**  
 - **Format → Slicer Header → Text**  
@@ -40,6 +44,8 @@
 - **Format → Slicer Header → Pending Icon**  
   - Color / Transparency  
 
+---
+
 ### **Slicer Value**
 **Format Value Options**  
 - **Format → Value → Values**  
@@ -49,6 +55,8 @@
 - **Format → Value → Background**  
   - Color  
 - **Format → Value → Reset to Default**
+
+---
 
 ### **Slicer – Date**
 **Date / Hierarchy Setup**  
