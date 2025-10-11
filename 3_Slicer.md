@@ -17,8 +17,7 @@
 
 ---
 
-### **Slicer Settings**
-**Shape of Slicer**  
+### **Slicer Settings** : **Shape of Slicer**  
 - **Format → Slicer Settings → Option**  
   - Style → Vertical list / Title / Between / Before / After / Dropdown / Relative date / Relative time  
 
@@ -33,8 +32,7 @@
 
 ---
 
-### **Slicer Header**
-**Format Header Options**  
+### **Slicer Header** : **Format Header Options**  
 - **Format → Slicer Header → Text**  
   - Title Text / Font / Font Color  
 - **Format → Slicer Header → Border**  
@@ -46,8 +44,7 @@
 
 ---
 
-### **Slicer Value**
-**Format Value Options**  
+### **Slicer Value** : **Format Value Options**  
 - **Format → Value → Values**  
   - Font / Font Color / Padding  
 - **Format → Value → Border**  
@@ -58,13 +55,11 @@
 
 ---
 
-### **Slicer – Date**
-**Date / Hierarchy Setup**  
+### **Slicer – Date** : **Date / Hierarchy Setup**  
 - **Slicer → Field → (Drag and Drop Date Column)**  
 - **Right-click on Date Column → Data →**  
   - Date → Date Column / Date Hierarchy  
 
----
 ---
 ---
 
@@ -72,7 +67,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-#### 🎯 Basic Slicer Setup
+### 🎯 Basic Slicer Setup
 
 **Steps**
 1. Click **Slicer**.
@@ -84,7 +79,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## 📝 Text Slicer
+### 📝 Text Slicer
 
 **Steps**
 1. Click **Slicer** → Drag and drop **Category** into **Field**.  
@@ -94,7 +89,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## 🪜 Slicer with Hierarchy
+### 🪜 Slicer with Hierarchy
 
 **Steps**
 1. Slicer → Field → Drag and drop **Category** and **Sub-Category**.  
@@ -103,7 +98,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## 🥧 Slicer + Pie Chart
+### 🥧 Slicer + Pie Chart
 
 **Steps**
 1. **Pie Chart → Legend:** Drag and drop **Category**.  
@@ -111,7 +106,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## ✏️ Format Text Slicer
+### ✏️ Format Text Slicer
 
 **Steps**
 1. **Table → Columns:** Sub-Category, Sales.  
@@ -119,7 +114,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## 🔘 Multi-Select Without CTRL
+### 🔘 Multi-Select Without CTRL
 
 **Steps**
 1. **Slicer → Field:** Category.  
@@ -127,14 +122,14 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## 🙈 Hide Field Name from Slicer
+### 🙈 Hide Field Name from Slicer
 
 **Path:**  
 `Format → Slicer Header → Off`
 
 ---
 
-## 🧭 Slicer as Dashboard
+### 🧭 Slicer as Dashboard
 
 Create a **Horizontal Slicer** that functions like a dashboard.
 
@@ -143,7 +138,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## 🏙️ Slicer as Buttons – Format City
+### 🏙️ Slicer as Buttons – Format City
 
 **Steps**
 1. **Slicer → Field:** City.  
@@ -152,7 +147,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## 📅 Date Slicer (Between Style)
+### 📅 Date Slicer (Between Style)
 
 **Steps**
 1. **Table → Columns:** Order Date, Profit.  
@@ -161,7 +156,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## ⏰ Relative Time Date Slicer
+### ⏰ Relative Time Date Slicer
 
 **Steps**
 1. **Slicer → Field:** Order Date.  
@@ -169,7 +164,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## 🗓️ Date Hierarchy Slicer (Dropdown Style)
+### 🗓️ Date Hierarchy Slicer (Dropdown Style)
 
 **Steps**
 1. **Table → Columns:** Order Date, Profit.  
@@ -179,7 +174,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## 📈 Date Hierarchy Slicer (Vertical Line Style)
+### 📈 Date Hierarchy Slicer (Vertical Line Style)
 
 **Steps**
 1. **Slicer → Field:** Order Date.  
@@ -188,7 +183,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## 🧭 Date Buttons (Title Style)
+### 🧭 Date Buttons (Title Style)
 
 **Steps**
 1. **Slicer → Field:** Order Date.  
@@ -200,7 +195,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## 🎨 Date Hierarchy Dropdown with Formatting
+### 🎨 Date Hierarchy Dropdown with Formatting
 
 **Steps**
 1. **Slicer → Field:** Order Date.  
@@ -212,7 +207,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## 🍩 Donut Chart with Slicer
+### 🍩 Donut Chart with Slicer
 
 **Steps**
 1. **Legend →** Order Date.  
@@ -220,7 +215,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ---
 
-## 🔢 Number Slicer
+### 🔢 Number Slicer
 
 **Steps**
 1. **Table → Columns:** Customer Name, Sales.  
