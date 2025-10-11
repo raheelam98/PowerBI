@@ -1,4 +1,4 @@
-# Power BI Slicer Guide
+# Power BI - Slicer
 
 **Slicer :** A slicer is a visual filter that allows users to segment and analyze data interactively.
 
