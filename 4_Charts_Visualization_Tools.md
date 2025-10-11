@@ -40,7 +40,7 @@ A Gauge Chart is used to show **progress toward a target or goal within a define
 - **Gauge (Build) —> value / min value / max value / target value / tooltips** 
 - **Format (Visual) —> size and style / title / gauge axis / colors / data labels / target label / callout value**
 
-### **Examples**
+**Examples :** To analyze category and sub-category performance against the target shown in the Gauge chart, use a Donut chart and a Slicer.
 
 **Gauge Chart (Sales vs Profit)** Visualize how Sales perform against the Profit target.
 - Gauge (Build) —> value (sales)
@@ -49,7 +49,6 @@ A Gauge Chart is used to show **progress toward a target or goal within a define
 
 **Donut Chart Analysis (Category Performance)** Analyze category-wise and sub-category-wise performance against targets.
 
-To analyze target value of category and sub category use Donut chart and Slicer 
 - Donut chart  (Build) —> legend (category)
 - Donut chart  (Build) —> value (sales)
 
