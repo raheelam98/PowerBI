@@ -24,24 +24,15 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 - **Build → Slicer → Field**
 - **Format → Size & Style / Title / Slicer Settings / Slicer Header / Values / Hierarchy**
 
+---
 
-**Power BI Slicer Customization: Shape, Header, and Value Formatting**
-
-| Category            | Description                                                                                   |
-| ------------------- | --------------------------------------------------------------------------------------------- |
-| **Size & Style**    | Adjust slicer layout (vertical list, dropdown, between, relative time, etc.)                  |
-| **Title**           | Modify slicer title text, font, color, and alignment                                          |
-| **Slicer Settings** | Control selection behavior (single select, multi-select, select all)                          |
-| **Slicer Header**   | Customize header visibility, background color, and border styling                             |
-| **Values**          | Format slicer values — font size, color, padding, and background                              |
-| **Hierarchy**       | Build hierarchical slicers (e.g., Category → Subcategory → Segment) for multi-level filtering |
-
+### Power BI Slicer Customization: Shape, Header, and Value Formatting
 
 ---
 
-### **Slicer Settings** : **Shape of Slicer**  
+### **Slicer Settings** : **Adjust slicer layout**  
 - **Format → Slicer Settings → Option**  
-  - Style → Vertical list / Title / Between / Before / After / Dropdown / Relative date / Relative time  
+  - **Style** → Vertical list / Title / Between / Before / After / Dropdown / Relative date / Relative time  
 
 **Selection Options**  
 - **Format → Slicer Settings → Selection**
@@ -54,7 +45,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-### **Slicer Header** : **Format Header Options**  
+### **Slicer Header** : **Customize header**  
 - **Format → Slicer Header → Text**  
   - Title Text / Font / Font Color  
 - **Format → Slicer Header → Border**  
@@ -66,7 +57,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-### **Slicer Value** : **Format Value Options**  
+### **Slicer Value** : **Format slicer values**  
 - **Format → Value → Values**  
   - Font / Font Color / Padding  
 - **Format → Value → Border**  
