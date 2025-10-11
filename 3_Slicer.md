@@ -25,8 +25,9 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## Power BI Slicer Customization: Shape, Header, and Value Formatting
+### Power BI Slicer Customization: Shape, Header, and Value Formatting
 
+---
 
 ### **Slicer Settings** : **Shape of Slicer**  
 - **Format → Slicer Settings → Option**  
@@ -73,9 +74,9 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## Visual Filtering in Power BI: Using Slicers for Data Interaction
+### Visual Filtering in Power BI: Using Slicers for Data Interaction
 
-
+---
 
 ### 🎯 Basic Slicer Setup
 
