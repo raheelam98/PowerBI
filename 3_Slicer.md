@@ -13,8 +13,19 @@
 3. **Format Text Slicer**  
 4. **Date Slicer**  
 5. **Format Date Slicer**  
-6. **Number Slicer**   
+6. **Number Slicer**
 
+---
+
+### Power BI Slicer Formatting and Configuration
+
+A **Slicer** in Power BI acts as a dynamic filter that allows users to interactively control visuals such as tables, charts, and KPIs.
+
+- **Build → Slicer → Field**
+
+---
+
+### Power BI Slicer Customization: Shape, Header, and Value Formatting
 ---
 
 ### **Slicer Settings** : **Shape of Slicer**  
@@ -62,7 +73,7 @@
 
 ---
 
-A **Slicer** in Power BI acts as a dynamic filter that allows users to interactively control visuals such as tables, charts, and KPIs.
+## **Visual Filtering in Power BI: Using Slicers for Data Interaction**
 
 ---
 
