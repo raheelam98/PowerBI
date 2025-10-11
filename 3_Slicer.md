@@ -6,6 +6,61 @@
 - Combine slicers with visuals (tables, charts) for interactive reports
 - Customize slicer appearance to match report design
 
+
+### **Slicers – Topics**
+1. **Create Slicers**  
+2. **Text Slicer**  
+3. **Format Text Slicer**  
+4. **Date Slicer**  
+5. **Format Date Slicer**  
+6. **Number Slicer**   
+
+### **Slicer Settings**
+**Shape of Slicer**  
+- **Format → Slicer Settings → Option**  
+  - Style → Vertical list / Title / Between / Before / After / Dropdown / Relative date / Relative time  
+
+**Selection Options**  
+- **Format → Slicer Settings → Selection**  
+  - Single Select  
+  - Multi-Select with CTRL  
+  - Select All  
+
+**Reset Slicer**  
+- **Format → Slicer Settings → Reset to Default**
+
+### **Slicer Header**
+**Format Header Options**  
+- **Format → Slicer Header → Text**  
+  - Title Text / Font / Font Color  
+- **Format → Slicer Header → Border**  
+  - Position / Color / Line Width  
+- **Format → Slicer Header → Background**  
+  - Color  
+- **Format → Slicer Header → Pending Icon**  
+  - Color / Transparency  
+
+### **Slicer Value**
+**Format Value Options**  
+- **Format → Value → Values**  
+  - Font / Font Color / Padding  
+- **Format → Value → Border**  
+  - Border Position / Color / Line Width  
+- **Format → Value → Background**  
+  - Color  
+- **Format → Value → Reset to Default**
+
+### **Slicer – Date**
+**Date / Hierarchy Setup**  
+- **Slicer → Field → (Drag and Drop Date Column)**  
+- **Right-click on Date Column → Data →**  
+  - Date → Date Column / Date Hierarchy  
+
+
+---
+---
+---
+
 **How to add a slicer:**
 - Go to `Insert` → `Slicer`
 - Drag and drop the desired field (e.g., Category)
