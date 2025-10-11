@@ -72,9 +72,9 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ---
 
-## 🎯 Basic Slicer Setup
+#### 🎯 Basic Slicer Setup
 
-### Steps
+**Steps**
 1. Click **Slicer**.
 2. Go to **Field** → Drag and drop **Category**.
 3. Create a **Horizontal Slicer**.
@@ -86,7 +86,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ## 📝 Text Slicer
 
-### Steps
+**Steps**
 1. Click **Slicer** → Drag and drop **Category** into **Field**.  
 2. In **Table**, drag and drop **Sub-Category** and **Sales** into **Columns**.  
 3. Selecting a category in the slicer filters the table accordingly.  
@@ -96,7 +96,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ## 🪜 Slicer with Hierarchy
 
-### Steps
+**Steps**
 1. Slicer → Field → Drag and drop **Category** and **Sub-Category**.  
 2. Slicer → Field → Drag and drop **Segment**.  
 3. Slicer → Field → Drag and drop **Region**.
@@ -105,7 +105,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ## 🥧 Slicer + Pie Chart
 
-### Steps
+**Steps**
 1. **Pie Chart → Legend:** Drag and drop **Category**.  
 2. **Pie Chart → Value:** Drag and drop **Sub-Category**.
 
@@ -113,7 +113,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ## ✏️ Format Text Slicer
 
-### Steps
+**Steps**
 1. **Table → Columns:** Sub-Category, Sales.  
 2. **Pie Chart → Legend:** Category, Sub-Category.
 
@@ -121,7 +121,7 @@ A **Slicer** in Power BI acts as a dynamic filter that allows users to interacti
 
 ## 🔘 Multi-Select Without CTRL
 
-### Steps
+**Steps**
 1. **Slicer → Field:** Category.  
 2. **Format → Slicer Settings → Selection:** Turn **Off Multi-Select with CTRL**.
 
@@ -145,7 +145,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## 🏙️ Slicer as Buttons – Format City
 
-### Steps
+**Steps**
 1. **Slicer → Field:** City.  
 2. **Format → Slicer Settings → Option (Title)**.  
 3. **Format → Value:** Adjust **Font Size** and **Background Color**.
@@ -154,7 +154,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## 📅 Date Slicer (Between Style)
 
-### Steps
+**Steps**
 1. **Table → Columns:** Order Date, Profit.  
 2. **Slicer → Field:** Order Date.  
 3. **Format → Slicer Settings → Option:** Style → **Between**.
@@ -163,7 +163,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## ⏰ Relative Time Date Slicer
 
-### Steps
+**Steps**
 1. **Slicer → Field:** Order Date.  
 2. **Format → Slicer Settings → Option:** Style → **Relative Time**.
 
@@ -171,7 +171,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## 🗓️ Date Hierarchy Slicer (Dropdown Style)
 
-### Steps
+**Steps**
 1. **Table → Columns:** Order Date, Profit.  
 2. **Slicer → Field:** Order Date.  
 3. **Right Click → Data → Date Hierarchy.**  
@@ -181,7 +181,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## 📈 Date Hierarchy Slicer (Vertical Line Style)
 
-### Steps
+**Steps**
 1. **Slicer → Field:** Order Date.  
 2. **Right Click → Data → Date Hierarchy.**  
 3. **Format → Slicer Settings → Option:** Style → **Vertical Line**.
@@ -190,7 +190,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## 🧭 Date Buttons (Title Style)
 
-### Steps
+**Steps**
 1. **Slicer → Field:** Order Date.  
 2. **Format → Slicer Settings → Option:** Style → **Title**.  
 3. **Format → Slicer Header:** Off.  
@@ -202,7 +202,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## 🎨 Date Hierarchy Dropdown with Formatting
 
-### Steps
+**Steps**
 1. **Slicer → Field:** Order Date.  
 2. **Right Click → Data → Date Hierarchy.**  
 3. **Format → Slicer Settings → Option:** Style → **Dropdown**.  
@@ -214,7 +214,7 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## 🍩 Donut Chart with Slicer
 
-### Steps
+**Steps**
 1. **Legend →** Order Date.  
 2. **Value →** Sum.  
 
@@ -222,26 +222,10 @@ Create a **Horizontal Slicer** that functions like a dashboard.
 
 ## 🔢 Number Slicer
 
-### Steps
+**Steps**
 1. **Table → Columns:** Customer Name, Sales.  
 2. **Slicer → Field:** Quantity.  
 3. **Slicer → Field:** Sales.  
-
----
-
-## ✅ Summary
-
-Slicers in Power BI are essential for interactive data exploration. They enable:
-- Dynamic filtering across visuals.  
-- Hierarchical selection.  
-- Visual styling for better UX.  
-- Integration with charts for detailed insights.
-
----
-
-**Author:** Nexdice  
-**Created for:** Power BI Learning & Documentation Repository  
-**Website:** [https://www.nexdice.com](https://www.nexdice.com)
 
 
 ---
