@@ -23,11 +23,11 @@
   - Style → Vertical list / Title / Between / Before / After / Dropdown / Relative date / Relative time  
 
 **Selection Options**  
-- **Format → Slicer Settings → Selection**  
+- **Format → Slicer Settings → Selection**
   - Single Select  
   - Multi-Select with CTRL  
-  - Select All  
-
+  - Select All
+  
 **Reset Slicer**  
 - **Format → Slicer Settings → Reset to Default**
 
@@ -64,7 +64,189 @@
 - **Right-click on Date Column → Data →**  
   - Date → Date Column / Date Hierarchy  
 
+---
+---
+---
 
+A **Slicer** in Power BI acts as a dynamic filter that allows users to interactively control visuals such as tables, charts, and KPIs.
+
+---
+
+## 🎯 Basic Slicer Setup
+
+### Steps
+1. Click **Slicer**.
+2. Go to **Field** → Drag and drop **Category**.
+3. Create a **Horizontal Slicer**.
+
+**Path:**  
+`Format → Slicer Settings → Option (Title)`
+
+---
+
+## 📝 Text Slicer
+
+### Steps
+1. Click **Slicer** → Drag and drop **Category** into **Field**.  
+2. In **Table**, drag and drop **Sub-Category** and **Sales** into **Columns**.  
+3. Selecting a category in the slicer filters the table accordingly.  
+4. To select multiple categories → Hold **Ctrl + Click**.
+
+---
+
+## 🪜 Slicer with Hierarchy
+
+### Steps
+1. Slicer → Field → Drag and drop **Category** and **Sub-Category**.  
+2. Slicer → Field → Drag and drop **Segment**.  
+3. Slicer → Field → Drag and drop **Region**.
+
+---
+
+## 🥧 Slicer + Pie Chart
+
+### Steps
+1. **Pie Chart → Legend:** Drag and drop **Category**.  
+2. **Pie Chart → Value:** Drag and drop **Sub-Category**.
+
+---
+
+## ✏️ Format Text Slicer
+
+### Steps
+1. **Table → Columns:** Sub-Category, Sales.  
+2. **Pie Chart → Legend:** Category, Sub-Category.
+
+---
+
+## 🔘 Multi-Select Without CTRL
+
+### Steps
+1. **Slicer → Field:** Category.  
+2. **Format → Slicer Settings → Selection:** Turn **Off Multi-Select with CTRL**.
+
+---
+
+## 🙈 Hide Field Name from Slicer
+
+**Path:**  
+`Format → Slicer Header → Off`
+
+---
+
+## 🧭 Slicer as Dashboard
+
+Create a **Horizontal Slicer** that functions like a dashboard.
+
+**Path:**  
+`Format → Slicer Settings → Option (Title)`
+
+---
+
+## 🏙️ Slicer as Buttons – Format City
+
+### Steps
+1. **Slicer → Field:** City.  
+2. **Format → Slicer Settings → Option (Title)**.  
+3. **Format → Value:** Adjust **Font Size** and **Background Color**.
+
+---
+
+## 📅 Date Slicer (Between Style)
+
+### Steps
+1. **Table → Columns:** Order Date, Profit.  
+2. **Slicer → Field:** Order Date.  
+3. **Format → Slicer Settings → Option:** Style → **Between**.
+
+---
+
+## ⏰ Relative Time Date Slicer
+
+### Steps
+1. **Slicer → Field:** Order Date.  
+2. **Format → Slicer Settings → Option:** Style → **Relative Time**.
+
+---
+
+## 🗓️ Date Hierarchy Slicer (Dropdown Style)
+
+### Steps
+1. **Table → Columns:** Order Date, Profit.  
+2. **Slicer → Field:** Order Date.  
+3. **Right Click → Data → Date Hierarchy.**  
+4. **Format → Slicer Settings → Option:** Style → **Dropdown**.
+
+---
+
+## 📈 Date Hierarchy Slicer (Vertical Line Style)
+
+### Steps
+1. **Slicer → Field:** Order Date.  
+2. **Right Click → Data → Date Hierarchy.**  
+3. **Format → Slicer Settings → Option:** Style → **Vertical Line**.
+
+---
+
+## 🧭 Date Buttons (Title Style)
+
+### Steps
+1. **Slicer → Field:** Order Date.  
+2. **Format → Slicer Settings → Option:** Style → **Title**.  
+3. **Format → Slicer Header:** Off.  
+4. **Format → Value:**  
+   - Font Color → White  
+   - Background → Blue  
+
+---
+
+## 🎨 Date Hierarchy Dropdown with Formatting
+
+### Steps
+1. **Slicer → Field:** Order Date.  
+2. **Right Click → Data → Date Hierarchy.**  
+3. **Format → Slicer Settings → Option:** Style → **Dropdown**.  
+4. **Format → Value:**  
+   - Font Color → Red  
+   - Background → Grey  
+
+---
+
+## 🍩 Donut Chart with Slicer
+
+### Steps
+1. **Legend →** Order Date.  
+2. **Value →** Sum.  
+
+---
+
+## 🔢 Number Slicer
+
+### Steps
+1. **Table → Columns:** Customer Name, Sales.  
+2. **Slicer → Field:** Quantity.  
+3. **Slicer → Field:** Sales.  
+
+---
+
+## ✅ Summary
+
+Slicers in Power BI are essential for interactive data exploration. They enable:
+- Dynamic filtering across visuals.  
+- Hierarchical selection.  
+- Visual styling for better UX.  
+- Integration with charts for detailed insights.
+
+---
+
+**Author:** Nexdice  
+**Created for:** Power BI Learning & Documentation Repository  
+**Website:** [https://www.nexdice.com](https://www.nexdice.com)
+
+
+---
+---
+---
 ---
 ---
 ---
