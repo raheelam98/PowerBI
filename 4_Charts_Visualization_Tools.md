@@ -47,7 +47,7 @@ A Gauge Chart is used to show **progress toward a target or goal within a define
 - Gauge (Build) —> target value (profit)
 - Gauge (Format) —> color (fill color —> blue, target color —> red)
 
-**Donut Chart Analysis (Category Performance)** Analyze category-wise and sub-category-wise performance against targets.
+**Donut Chart Analysis (Category Performance)** Analyze category-wise and sub-categor performance against targets.
 
 - Donut chart  (Build) —> legend (category)
 - Donut chart  (Build) —> value (sales)
