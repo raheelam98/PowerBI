@@ -108,8 +108,7 @@ Example — **Legend: Sub-category** (Use a **Column Chart** instead)
 - **Line Chart**
   - **X-axis:** Order Date  
   - **Y-axis:** Sales  
-  - **Legend:** Category
- 
+  - **Legend:** Category 
 - Format → Lines → Apply setting to (Furniture)
 - Format → Lines → line  
   - Line Style → Dotted  
@@ -123,16 +122,14 @@ Example — **Legend: Sub-category** (Use a **Column Chart** instead)
   - **Y-axis:** Region  
   - **Legend:** Category   
 
-- Format → Lines → Apply setting to (Furniture)
+- Format → **Lines** → Apply setting to (Furniture)
 - Format → Lines → line   
     - Line Style → Dotted  
     - Join Type → Bevel  
     - Interpolation Type → Step  
     - Color → Blue  
-
-**Markers**
-- Format → Marks → Apply setting  
-  - Shape → Type: Dot  
+- Format → **Markers** → Apply setting  
+    - Shape → Type: Dot  
 
 ---
 
@@ -172,7 +169,6 @@ Focuses on **overall trend** (e.g., Total Sales over months).
   - **Y-axis:** Sales  
   - **Legend:** Category  
 - Format → Turn *Legend*, *Shade Area* and *Data Labels* **On**
-
 - Format → Markers → Apply settings to → Show for all series → On  
 - Format → Markers → Shape → Type: Dot  
 
