@@ -22,10 +22,11 @@ Shows sub category in tables
 - Title :- top (name )
 - Legend :- labels
 - Detail labels :-   data values
-- Markers : change shape and color of markers
-- (Format) —> Mark —> Shape ( type —> dash) remove the shape
 - **Format → Lines** → Apply setting to / Line / Color / Reset to default  
-- **Format → Marks** → Apply setting / Shape / Color / Border / Reset to default  
+- **Format → Markers** → Apply setting / Shape / Color / Border / Reset to default
+  - (Format) —> Markers —> Shape ( type —> dash) remove the shape
+  -  Markers : change shape and color of markers
+-  
 
 
 ---
