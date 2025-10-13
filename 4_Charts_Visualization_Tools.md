@@ -24,20 +24,23 @@ A **Waterfall Chart** shows how positive and negative values impact a total over
 ### **Examples**
 
 #### **1. Increase in Data (Sales by Market)**   
-- Waterfall Chart → **Category:** Market  
-- Waterfall Chart → **Y-axis:** Sales  
+- **Waterfall Chart**
+  - **Category:** Market  
+  - **Y-axis:** Sales  
 - **Format:** Turn *Title*, *Legend*, and *Data Labels* **On**
 
 #### **2. Decrease in Data (Sales by Market and Category)**  
-- Waterfall Chart → **Category:** Market  
-- Waterfall Chart → **Y-axis:** Sales  
-- Waterfall Chart → **Breakdown:** Category  
+- **Waterfall Chart**
+  - **Category:** Market  
+  - **Y-axis:** Sales
+  - **Breakdown:** Category 
 - **Format:** Turn *Title*, *Legend*, and *Data Labels* **On**
 
 #### **3. Compare Positive and Negative Values**  
-- Waterfall Chart → **Category:** Order Date  
-- Waterfall Chart → **Y-axis:** Sales  
-- Waterfall Chart → **Breakdown:** Category  
+- **Waterfall Chart**
+  - **Category:** Order Date   
+  - **Y-axis:** Sales
+  - **Breakdown:** Category
 - **Format:** Turn *Title*, *Legend*, and *Data Labels* **On**
 
 ---
@@ -52,14 +55,16 @@ A Gauge Chart is used to show **progress toward a target or goal within a define
 **Examples :** To analyze category and sub-category performance against the target shown in the Gauge chart, use a Donut chart and a Slicer.
 
 **Gauge Chart (Sales vs Profit)** Visualize how Sales perform against the Profit target.
-- Gauge (Build) —> value (sales)
-- Gauge (Build) —> target value (profit)
+- **Gauge** (Build)
+  - value (sales)
+  - target value (profit)
 - Gauge (Format) —> color (fill color —> blue, target color —> red)
 
 **Donut Chart Analysis (Category Performance)** Analyze category-wise and sub-categor performance against targets.
 
-- Donut chart  (Build) —> legend (category)
-- Donut chart  (Build) —> value (sales)
+- **Donut chart**  (Build) 
+  - legend (category)
+  - value (sales)
 
 **Slicer Setup (Sub-Category Filter)** Filter Donut Chart results by sub-category.
 
@@ -85,9 +90,11 @@ Avoid using values with too many lines.
 Example — **Legend: Sub-category** (Use a **Column Chart** instead)
 
 **Example 1**  
-- Line Chart → **X-axis:** Order Date  
-- Line Chart → **Y-axis:** Sales  
-- Line Chart → **Legend:** Category  
+- **Line Chart**
+  - **X-axis:** Order Date  
+  - **Y-axis:** Sales  
+  - **Legend:** Category
+ 
 - Format → Lines → Apply setting to (Furniture)
 - Format → Lines → line  
   - Line Style → Dotted  
@@ -95,16 +102,18 @@ Example — **Legend: Sub-category** (Use a **Column Chart** instead)
   - Interpolation Type → Step  
   - Color → Blue  
 
-**Example 2**  
-- Line Chart → **X-axis:** Order Date  
-- Line Chart → **Y-axis:** Region  
-- Line Chart → **Legend:** Category  
+**Example 2**
+- **Line Chart**
+  - **X-axis:** Order Date  
+  - **Y-axis:** Region  
+  - **Legend:** Category   
+
 - Format → Lines → Apply setting to (Furniture)
 - Format → Lines → line   
-  - Line Style → Dotted  
-  - Join Type → Bevel  
-  - Interpolation Type → Step  
-  - Color → Blue  
+    - Line Style → Dotted  
+    - Join Type → Bevel  
+    - Interpolation Type → Step  
+    - Color → Blue  
 
 **Markers**
 - Format → Marks → Apply setting  
@@ -119,18 +128,19 @@ Used to compare data across multiple years using drill-down.
 Compare data of **1 and 4 January** for **2013 and 2014**  
 *(Data is complex; not recommended for final reports.)*
 
-- Line Chart → **X-axis:** Order Date  
-- Line Chart → **Y-axis:** Sales  
-- Line Chart → **Legend:** Category  
-- Slicer → **Field:** Order Date  
-- Right Click → Data → Date Hierarchy  
+- **Line Chart**
+  - **X-axis:** Order Date  
+  - **Y-axis:** Sales  
+  - **Legend:** Category
+   
+  **Slicer** → Field : Order Date  
+  - Right Click → Data → Date Hierarchy  
 - Format → Slicer Settings → Option → Style → Vertical Line
 
 **Slicer**
 - Slicer (Build) → Field: Order Date.
   - Right Click → Data → Date Hierarchy.
 - Format → Slicer Settings → Option: Style → Vertical Line.
-
 
 ---
 
@@ -142,12 +152,12 @@ Focuses on **overall trend** (e.g., Total Sales over months).
 - **Area Chart (Format)** → Size and style / Title / X-axis / Y-axis / Secondary Y-axis / Legend / Small multiples / Gridlines / Zoom slider / Lines / Shade / Markers / Data labels / Plot area background / Trend line / Reference line  
 
 **Example 1**  
-- Area Chart → **X-axis:** Order Date  
-- Area Chart → **Y-axis:** Sales  
-- Area Chart → **Legend:** Category  
-- Format → Legend: On  
-- Format → Shade Area: On  
-- Format → Data Labels: On  
+- **Area Chart**
+  - **X-axis:** Order Date  
+  - **Y-axis:** Sales  
+  - **Legend:** Category  
+- Format → Turn *Legend*, *Shade Area* and *Data Labels* **On**
+
 - Format → Markers → Apply settings to → Show for all series → On  
 - Format → Markers → Shape → Type: Dot  
 
@@ -166,9 +176,10 @@ Useful for comparing **parts to the whole** (e.g., Sales by Region).
 
 **Example 1**  
 *(Convert Order Date to Hierarchy — not a single date field)*  
-- Stacked Area Chart → **X-axis:** Order Date  
-- Stacked Area Chart → **Y-axis:** Sales  
-- Stacked Area Chart → **Legend:** Category  
+- **Stacked Area Chart**
+-   **X-axis:** Order Date  
+-   **Y-axis:** Sales  
+-   **Legend:** Category  
 - Right-click on Date Column → Data →  
   - Date → Date Column / Date Hierarchy  
 
@@ -181,10 +192,11 @@ Compares one category across different years (e.g., Compare 2012 vs 2015).
 - **Line and Stacked Column Chart (Format)** → Size and style / Title / X-axis / Y-axis / Legend / Small multiples / Gridlines / Zoom slider / Lines / Shade area / Markers / Data labels / Series labels / Plot area background / Reference line  
 
 **Example 1**  Compare one category across years (e.g., 2012–2015)  
-- Line and Stacked Column Chart → **X-axis:** Order Date  
-- Column Y-axis → Category  
-- Line Y-axis → Profit  
-- Column Legend → Category  
+- **Line and Stacked Column Chart**
+  -  **X-axis:** Order Date  
+  - **Column Y-axis** → Category  
+  - **Line Y-axis** → Profit  
+  - **Column Legend** → Category  
 - Format → Turn  **On**  *Title*, *Legend*, *Zoom Slider*, *Marker*, and *Data Labels* 
 
 **Slicer** → Field → Category  
