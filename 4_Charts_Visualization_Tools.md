@@ -11,6 +11,24 @@
 9. Scatter Plot - use numeric value (use animation -  export file)
 10. Tree map
 
+**Notes**
+
+- Tooltips :- Line and Stacked Column chart (Build) —> tooltip (sub category)
+Shows sub category in tables
+- Tooltip —> (right click) Data —> Summarization (sum / average / min / max / count / sd / variance / median )
+- Export data :-Send selected data to the client in of excel or cvs files
+
+**Format**
+- Title :- top (name )
+- Legend :- labels
+- Detail labels :-   data values
+- Markers : change shape and color of markers
+- (Format) —> Mark —> Shape ( type —> dash) remove the shape
+- **Format → Lines** → Apply setting to / Line / Color / Reset to default  
+- **Format → Marks** → Apply setting / Shape / Color / Border / Reset to default  
+
+
+---
 
 ### **Waterfall Chart - 1**
 
@@ -23,20 +41,20 @@ A **Waterfall Chart** shows how positive and negative values impact a total over
 
 ### **Examples**
 
-#### **1. Increase in Data (Sales by Market)**   
+**1. Increase in Data (Sales by Market)**   
 - **Waterfall Chart**
   - **Category:** Market  
   - **Y-axis:** Sales  
 - **Format:** Turn *Title*, *Legend*, and *Data Labels* **On**
 
-#### **2. Decrease in Data (Sales by Market and Category)**  
+**2. Decrease in Data (Sales by Market and Category)**  
 - **Waterfall Chart**
   - **Category:** Market  
   - **Y-axis:** Sales
   - **Breakdown:** Category 
 - **Format:** Turn *Title*, *Legend*, and *Data Labels* **On**
 
-#### **3. Compare Positive and Negative Values**  
+**3. Compare Positive and Negative Values**  
 - **Waterfall Chart**
   - **Category:** Order Date   
   - **Y-axis:** Sales
@@ -80,10 +98,6 @@ Used to show trends over time for one or more categories.
 
 - **Line Chart (Build)** → X-axis / Y-axis / Secondary-axis / Legend / Small multiples / Tooltips  
 - **Line Chart (Format)** → Size and style / Title / X-axis / Y-axis / Secondary Y-axis / Legend / Small multiples / Gridlines / Zoom slider / Lines / Shade / Markers / Data labels / Plot area background / Trend line / Reference line / Error bars / Anomalies  
-
-**Details**
-- **Format → Lines** → Apply setting to / Line / Color / Reset to default  
-- **Format → Marks** → Apply setting / Shape / Color / Border / Reset to default  
 
 **Note:**  
 Avoid using values with too many lines.  
