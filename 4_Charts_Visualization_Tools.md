@@ -15,7 +15,7 @@
 
 - Tooltips :- Line and Stacked Column chart (Build) —> tooltip (sub category)
 Shows sub category in tables
-- Tooltip —> (right click) Data —> Summarization (sum / average / min / max / count / sd / variance / median )
+  - Tooltip —> (right click) Data —> Summarization (sum / average / min / max / count / sd / variance / median )
 - Export data :-Send selected data to the client in of excel or cvs files
 
 **Format**
