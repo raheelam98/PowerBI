@@ -1,5 +1,17 @@
 ## Charts Visualization Tools
 
+1. Waterfall Chart
+2. Gauge Chart
+3. Line Chart
+4. Line Chart Drill with Slicer
+5. Area chart
+6. Stack Area Chart
+7. Line vs Stacked Column Chart
+8. Line vs Clustered Chart
+9. Scatter Plot - use numeric value (use animation -  export file)
+10. Tree map
+
+
 ### **Waterfall Chart**
 
 A **Waterfall Chart** shows how positive and negative values impact a total over time, helping **visualize increases, decreases, and overall changes in metrics** like **sales** or **profit**.
