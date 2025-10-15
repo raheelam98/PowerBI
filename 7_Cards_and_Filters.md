@@ -20,10 +20,11 @@ Drill Through enables users to right-click a data point and navigate to another 
 Used to display a single summary metric (e.g., Total Sales, Profit, or Quantity).
 
 - **Card (Build)** → *Fields*  
-- **Card (Format)** → *Size and Style* / *Title* / *Callout Value* / *Category Label*  
-- **Card (Format)** → *Size and Style* → *Visual Border* → **Width:** 3px  
-- **Card (Format)** → *Category Label* → **Label:** e.g., *High Sales*  
-- **Card (Format)** → *Callout Value* → **Font Size:** 30 (e.g., *Accessories*)  
+- **Card (Format)** → *Size and Style* / *Title* / *Callout Value* / *Category Label*
+- **Card Setting**
+  - **Card (Format)** → *Size and Style* → *Visual Border* → **Width:** 3px  
+  - **Card (Format)** → *Category Label* → **Label:** e.g., *High Sales*  
+  - **Card (Format)** → *Callout Value* → **Font Size:** 30 (e.g., *Accessories*)  
 
 Change the name of date fields:  
 Right-click on Date field → **Rename for this visual**
