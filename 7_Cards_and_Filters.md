@@ -154,29 +154,34 @@ Displays multiple key values together (e.g., Top 3 Sub-Categories by Sales).
 ### **7. Filters on Visual**
 Used to filter only one visual.
 
-**Pie Chart**
+#### **Pie Chart**
 - **Legend:** Category  
 - **Values:** Sales
 
-**Apply Filter**
+**Apply Filter : Pie Chart***
 - **Filter**
     - Add data field here → Sub category
       - Filter type → Basic filter
       - Search → Select options
 
-**Stacked Column Chart**
+#### **Stacked Column Chart**
 - **X-Axis:** Sub-Category  
-- **Y-Axis:** Sales  
-- **Filter → Add field → Sub-Category → Type:** Basic Filter → Select options  
+- **Y-Axis:** Sales
 
-**Slicer**
+**Apply Filter : Stacked Column Chart***
+- **Filter**
+    - Add data field here → Sub category
+      - Filter type → Basic filter
+      - Search → Select options 
+
+#### **Slicer**
 - **Field:** Sub-Category  
 
-**Table**
+#### **Table**
 - Columns → Sub-Category, Sales  
 - Apply same filter on Sub-Category.
 
-> **Note:** Slicer filters affect all visuals on the same page.
+**Note:** Slicer filters affect all visuals on the same page.
 
 ---
 
