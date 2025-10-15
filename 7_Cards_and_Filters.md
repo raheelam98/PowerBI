@@ -158,7 +158,7 @@ Used to filter only one visual.
 - **Legend:** Category  
 - **Values:** Sales
 
-**Apply Filter : Pie Chart***
+**Apply Filter : Pie Chart**
 - **Filter**
     - Add data field here → Sub category
       - Filter type → Basic filter
@@ -168,7 +168,7 @@ Used to filter only one visual.
 - **X-Axis:** Sub-Category  
 - **Y-Axis:** Sales
 
-**Apply Filter : Stacked Column Chart***
+**Apply Filter : Stacked Column Chart**
 - **Filter**
     - Add data field here → Sub category
       - Filter type → Basic filter
@@ -188,7 +188,15 @@ Used to filter only one visual.
 ### **8. Filters on Page**
 Applies filter to all visuals within the current page.
 
-- **Filter → Filter on this page → Sub-Category → Type:** Basic Filter → Select options  
+**Create Pie Chart, Stack Column Chart and Slicer**
+- Same steps as above in Filters on Visuals
+
+**Apply Filter on Page**
+- **Filter**
+  - Filter on this page → Sub-Category
+  - Filter Type → Basic Filter 
+  - Search → Select options  
+
 - Affects: Pie Chart, Stacked Column Chart, Table, and Slicer.
 
 ---
@@ -196,7 +204,14 @@ Applies filter to all visuals within the current page.
 ### **9. Filters on All Pages**
 Applies filter to every visual across all pages.
 
-- **Filter → Filter on all pages → Sub-Category → Type:** Basic Filter → Select options  
+**Create Pie Chart, Stack Column Chart table**
+- Same steps as above in Filters on Visuals
+
+**Apply Filter on All Page**
+- **Filter**
+  - Filter on all page → Sub-Category
+  - Filter Type → Basic Filter 
+  - Search → Select options   
 
 > **Note:** This filter applies to all report pages.
 
@@ -207,33 +222,44 @@ Used to navigate between pages with specific data context.
 
 **Example Setup**
 
-**Sheet 1**
+**Drill Throuh - Sheet**
 - **Stacked Bar Chart**
   - **Y-Axis:** Category  
-  - **X-Axis:** Sales  
+  - **X-Axis:** Sales
+    
 - **Pie Chart**
   - **Legend:** Market  
-  - **Values:** Category  
-- **Tables**
+  - **Values:** Category
+     
+- **Sheet 1 : Tables**
   - Table 1 → Sub-Category, Sales  
   - Table 2 → Order Date, Sales  
-  - Table 3 → Category, Sales  
-
-**Page Information Settings**
-- **Name:** Drill Sheet One  
-- **Page Type:** Drillthrough  
-- **Keep All Filters / Cross-Report:** Off  
-- **Drill Through From:** Category  
-
-**Sheet 2**
+  - Table 3 → Category, Sales
+ 
+**Sheet 2 : Tables**
 - **Tables**
   - Table 1 → Customer Name, State  
   - Table 2 → Market, Sales  
 
-**Page Information Settings**
-- **Name:** Drill Sheet Two  
-- **Page Type:** Drillthrough  
-- **Drill Through From:** Market  
+**Apply Filter on Sheet 1**
+
+**Filter**
+- **Filter on this page**
+  - **Name:** Drill Sheet One  
+  - **Page Type:** Drillthrough  
+  - **Keep All Filters / Cross-Report:** Off  
+  - **Drill Through From:** Category  
+
+
+**Apply Filter on Sheet 2**
+
+**Filter**
+- **Filter on this page**
+  - **Name:** Drill Sheet Two  
+  - **Page Type:** Drillthrough  
+  - **Keep All Filters / Cross-Report:** Off  
+  - **Drill Through From:** Market  
+
 
 ---
 
