@@ -52,12 +52,20 @@ Used to show earliest and latest order dates.
 **Card 3: Highest Sales**
 - **Fields** → *Order Date*  
 - **Build** → Add field → *High Sales*  
-- **Filter → Add data field → Order Date → Top N → Show items: 1 → By value: Sales*  
+- **Filter** →
+  - Add data field → Order Date
+    - Filter type → Top N
+    - Show items: 1
+    - By value  → Sales  
 
 **Card 4: Highest Discount**
 - **Fields** → *Order Date*  
 - **Build** → Add field → *High Discount*  
-- **Filter → Add data field → Order Date → Top N → Show items: 1 → By value: Discount*  
+- **Filter** →
+  - Add data field → Order Date
+    - Filter type → Top N
+    - Show items: 1
+    - By value  → Discount
 
 **Table:** Columns → Order Date, Sales, Discount  
 
