@@ -1,6 +1,6 @@
 ## Charts Visualization Tools
 
-1. Waterfall Chart
+1. Waterfall Chart  
 2. Gauge Chart
 3. Line Chart
 4. Line Chart Drill with Slicer
