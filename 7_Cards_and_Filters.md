@@ -91,6 +91,15 @@ Add same relative date filter on table for matching results.
 
 ---
 
+**Apply Relative Date Filter:**  
+- **Filter on this visual → Filter Type:** *Relative Date*  
+  - dropdown → *Is in the last* (select)
+  -  text box→ 10  (wirte)
+  -  dropdown → *Years*  (select)
+  - *Include Today* → ✔️  (check boo)
+  - Click **Apply Filter**
+---
+
 ### **4. Text Card**
 Used to display top or bottom category names dynamically.
 
