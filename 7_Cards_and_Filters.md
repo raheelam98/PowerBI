@@ -4,7 +4,7 @@
 Drill Through enables users to right-click a data point and navigate to another page to see detailed information related to that selection.
 
 
-## **1. Number Card**
+### **1. Number Card**
 Used to display a single summary metric (e.g., Total Sales, Profit, or Quantity).
 
 - **Card (Build)** → *Fields*  
@@ -21,27 +21,27 @@ Add filter:
 
 ---
 
-## **2. Date Card**
+### **2. Date Card**
 Used to show earliest and latest order dates.
 
-### **Card 1: Earliest Order Date**
+**Card 1: Earliest Order Date**
 - **Fields** → *Order Date*  
 - **Build** → Right-click → *Earliest*  
 - **Format** → *Category Label* → On  
 - **Format** → *Size and Style → Visual Border* → Width: 3px  
 
-### **Card 2: Latest Order Date**
+**Card 2: Latest Order Date**
 - **Fields** → *Order Date*  
 - **Build** → Right-click → *Latest*  
 - **Format** → *Category Label* → On  
 - **Format** → *Size and Style → Visual Border* → Width: 3px  
 
-### **Card 3: Highest Sales**
+**Card 3: Highest Sales**
 - **Fields** → *Order Date*  
 - **Build** → Add field → *High Sales*  
 - **Filter → Add data field → Order Date → Top N → Show items: 1 → By value: Sales*  
 
-### **Card 4: Highest Discount**
+**Card 4: Highest Discount**
 - **Fields** → *Order Date*  
 - **Build** → Add field → *High Discount*  
 - **Filter → Add data field → Order Date → Top N → Show items: 1 → By value: Discount*  
@@ -50,10 +50,10 @@ Used to show earliest and latest order dates.
 
 ---
 
-## **3. Relative Date Filter**
+### **3. Relative Date Filter**
 Used to filter visuals based on a dynamic time range (e.g., last 10 years).
 
-### **Card 1: Relative Date**
+**Card 1: Relative Date**
 - **Card (Build)** → Field: *Order Date*  
 - **Rename Field:** Right-click → *Rename for this visual → Relative Date*  
 - **Format** → *Category Label* → On  
@@ -70,35 +70,35 @@ Add same relative date filter on table for matching results.
 
 ---
 
-## **4. Text Card**
+### **4. Text Card**
 Used to display top or bottom category names dynamically.
 
-### **Card 1: Highest Sales (Sub-Category)**
+**Card 1: Highest Sales (Sub-Category)**
 - **Fields** → *Sub-Category*  
 - **Build** → Right-click → *First*  
 - **Format** → *Category Label* → On  
 - **Format** → *Visual Border* → Width: 3px  
 - **Filter → Add data field → Sub-Category → Top N → Show items: 1 → By value: Sales → Apply**
 
-### **Card 2: Highest Profit (Sub-Category)**
+**Card 2: Highest Profit (Sub-Category)**
 - Same steps as above, but filter by **Profit**.
 
-### **Card 3: Highest Quantity (Sub-Category)**
+**Card 3: Highest Quantity (Sub-Category)**
 - Same steps as above, but filter by **Quantity**.
 
 **Table:** Columns → *Sub-Category*, *Sales*, *Profit*, *Quantity*
 
 ---
 
-## **5. Format Card**
+### **5. Format Card**
 Used to customize **visual border, background, label size, font size**, and **text appearance** for all cards.
 
 ---
 
-## **6. Multi-Row Card**
+### **6. Multi-Row Card**
 Displays multiple key values together (e.g., Top 3 Sub-Categories by Sales).
 
-### **Multi-Row Card 1: Top 3 Sub-Categories**
+**Multi-Row Card 1: Top 3 Sub-Categories**
 - **Fields** → *Sub-Category*, *Sales*, *Profit*, *Discount*  
 - **Format** → *Category Label* → On  
 - **Format** → *Visual Border* → Width: 3px  
@@ -111,7 +111,7 @@ Displays multiple key values together (e.g., Top 3 Sub-Categories by Sales).
 
 ---
 
-## **7. Filters on Visual**
+### **7. Filters on Visual**
 Used to filter only one visual.
 
 **Pie Chart**
@@ -135,7 +135,7 @@ Used to filter only one visual.
 
 ---
 
-## **8. Filters on Page**
+### **8. Filters on Page**
 Applies filter to all visuals within the current page.
 
 - **Filter → Filter on this page → Sub-Category → Type:** Basic Filter → Select options  
@@ -143,7 +143,7 @@ Applies filter to all visuals within the current page.
 
 ---
 
-## **9. Filters on All Pages**
+### **9. Filters on All Pages**
 Applies filter to every visual across all pages.
 
 - **Filter → Filter on all pages → Sub-Category → Type:** Basic Filter → Select options  
@@ -152,10 +152,10 @@ Applies filter to every visual across all pages.
 
 ---
 
-## **10. Drill Through**
+### **10. Drill Through**
 Used to navigate between pages with specific data context.
 
-### **Example Setup**
+**Example Setup**
 
 **Sheet 1**
 - **Stacked Bar Chart**
