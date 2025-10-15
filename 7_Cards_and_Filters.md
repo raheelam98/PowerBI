@@ -60,12 +60,15 @@ Used to show earliest and latest order dates.
 
 **Card 4: Highest Discount**
 - **Fields** → *Order Date*  
-- **Build** → Add field → *High Discount*  
+- **Build** → Add field → *High Discount*
+
+**Apply Filter : Highest Discount**
 - **Filter** →
   - Add data field → Order Date
     - Filter type → Top N
     - Show items: 1
     - By value  → Discount
+    - Click **Apply Filter**
 
 **Table:** Columns → Order Date, Sales, Discount  
 
@@ -81,23 +84,16 @@ Used to filter visuals based on a dynamic time range (e.g., last 10 years).
 - **Format** → *Visual Border* → Width: 3px  
 
 **Apply Relative Date Filter:**  
-- **Filter on this visual → Type:** *Relative Date*  
-  - *Is in the last* → 10 → *Years*  
-  - *Include Today* → ✔️  
+- **Filter on this visual → Filter Type:** *Relative Date*  
+  - dropdown → *Is in the last* (select)
+  - text box→ 10  (wirte)
+  - dropdown → *Years*  (select)
+  - *Include Today* → ✔️  (check box)
   - Click **Apply Filter**
 
 **Table:** Columns → *Order Date*, *Sales*  
 Add same relative date filter on table for matching results.
 
----
-
-**Apply Relative Date Filter:**  
-- **Filter on this visual → Filter Type:** *Relative Date*  
-  - dropdown → *Is in the last* (select)
-  -  text box→ 10  (wirte)
-  -  dropdown → *Years*  (select)
-  - *Include Today* → ✔️  (check boo)
-  - Click **Apply Filter**
 ---
 
 ### **4. Text Card**
@@ -107,8 +103,15 @@ Used to display top or bottom category names dynamically.
 - **Fields** → *Sub-Category*  
 - **Build** → Right-click → *First*  
 - **Format** → *Category Label* → On  
-- **Format** → *Visual Border* → Width: 3px  
-- **Filter → Add data field → Sub-Category → Top N → Show items: 1 → By value: Sales → Apply**
+- **Format** → *Visual Border* → Width: 3px
+
+**Apply Filter : Highest Sales**
+- **Filter** →
+  - Add data field → Sub category
+    - Filter type → Top N
+    - Show items: 1
+    - By value  → Discount
+    - Click **Apply Filter**
 
 **Card 2: Highest Profit (Sub-Category)**
 - Same steps as above, but filter by **Profit**.
