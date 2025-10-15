@@ -1,5 +1,17 @@
 # **Power BI – Cards and Filters**
 
+1. Number Card
+2. Date Card 
+3. Relative Date Filter
+4. Text Card
+5. Format Card
+6. Multi-Row Card
+7. Filter on Visual
+8. Filter on This Page
+9. Filter on All Pages
+10. Use Drill Through
+
+
 **Note:**  
 Drill Through enables users to right-click a data point and navigate to another page to see detailed information related to that selection.
 
