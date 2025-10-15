@@ -9,7 +9,7 @@
 7. Filter on Visual
 8. Filter on This Page
 9. Filter on All Pages
-10. Use Drill Through
+10. Drill Through
 
 
 **Note:**  
