@@ -134,8 +134,15 @@ Displays multiple key values together (e.g., Top 3 Sub-Categories by Sales).
 **Multi-Row Card 1: Top 3 Sub-Categories**
 - **Fields** → *Sub-Category*, *Sales*, *Profit*, *Discount*  
 - **Format** → *Category Label* → On  
-- **Format** → *Visual Border* → Width: 3px  
-- **Filter → Add field → Sub-Category → Top N → Show items: 3 → By value: Sales → Apply**
+- **Format** → *Visual Border* → Width: 3px
+
+**Apply Filter : Highest Sales**
+- **Filter** →
+  - Add data field → Sub category
+    - Filter type → Top N
+    - Show items: 3
+    - By value  → Sales
+    - Click **Apply Filter**
 
 **Supporting Chart:**  
 - **Stacked Bar Chart**
