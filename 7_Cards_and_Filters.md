@@ -137,10 +137,10 @@ Displays multiple key values together (e.g., Top 3 Sub-Categories by Sales).
 - **Format** → *Visual Border* → Width: 3px
 
 **Apply Filter : Highest Sales**
-- **Filter** →
+- **Filter** 
   - Add data field → Sub category
     - Filter type → Top N
-    - Show items: 3
+    - Show items →  3
     - By value  → Sales
     - Click **Apply Filter**
 
@@ -156,8 +156,13 @@ Used to filter only one visual.
 
 **Pie Chart**
 - **Legend:** Category  
-- **Values:** Sales  
-- **Filter → Add field → Category → Type:** Basic Filter → Select options  
+- **Values:** Sales
+
+**Apply Filter**
+- **Filter**
+    - Add data field here → Sub category
+      - Filter type → Basic filter
+      - Search → Select options
 
 **Stacked Column Chart**
 - **X-Axis:** Sub-Category  
