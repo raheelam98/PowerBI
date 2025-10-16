@@ -43,7 +43,7 @@ Power BI offers various types of map visuals to represent geographical data effe
 
 ---
 
-## 2. Filled Map
+### 2. Filled Map
 
 #### **Build**
 - **Location:** State  
@@ -67,7 +67,7 @@ Power BI offers various types of map visuals to represent geographical data effe
 
 ---
 
-## 4. Slicer with Map of Pakistan
+### 4. Slicer with Map of Pakistan
 
 Use this map to visualize **imports/exports** between countries.
 
@@ -81,7 +81,7 @@ Use this map to visualize **imports/exports** between countries.
 
 ---
 
-## 5. Map Formatting
+### 5. Map Formatting
 
 #### **Build**
 - **Location:** Country  
@@ -96,7 +96,7 @@ Use this map to visualize **imports/exports** between countries.
 
 ---
 
-## 6. Change Map Background
+### 6. Change Map Background
 
 #### **Build**
 - **Location:** Country  
@@ -116,7 +116,7 @@ Use this map to visualize **imports/exports** between countries.
 
 ---
 
-##  7. International Continent vs Donut Map
+###  7. International Continent vs Donut Map
 
 Use a **Donut Chart as a Slicer** to filter map data by continent or region.
 
@@ -131,7 +131,7 @@ Use a **Donut Chart as a Slicer** to filter map data by continent or region.
 ---
 
 
-## Use Case Insight
+### Use Case Insight
 
 Power BI Maps are ideal for:
 - Visualizing **regional sales performance**
@@ -143,7 +143,7 @@ Power BI Maps are ideal for:
 
 ---
 
-## Purpose
+### Purpose
 
 - Data Visualization  
 - Business Intelligence  
