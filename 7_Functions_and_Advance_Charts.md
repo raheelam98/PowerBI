@@ -5,7 +5,7 @@
 
 ---
 
-### **Power BI – Bookmark**
+#### **Power BI – Bookmark**
 
 Bookmarks in Power BI are used to capture the current state of a report page (including filters, visuals, and visibility) so users can switch between customized views with a single click.
 
@@ -24,12 +24,12 @@ Bookmarks in Power BI are used to capture the current state of a report page (in
 
 **Steps to Create Bookmarks**
 
-#### **Step 1: Enable Bookmark & Selection Pane**
+**Step 1: Enable Bookmark & Selection Pane**
 - Go to **View → Bookmarks  → Selection**  
 - Make sure both are turned **On**
 
 
-#### **Step 2: Create “Show Sales” Bookmark**
+**Step 2: Create “Show Sales” Bookmark**
 1. In the **Selection Pane**, hide → *Category by Market* visual.  
 2. In the **Bookmarks Pane**, click **Add** → Rename it → **Show Sales**.  
 3. Select **Show Sales Button** →  
@@ -37,7 +37,7 @@ Bookmarks in Power BI are used to capture the current state of a report page (in
      - **Action → Type:** Bookmark  
      - **Bookmark → Show Sales**
 
-#### **Step 3: Create “Show Market” Bookmark**
+**Step 3: Create “Show Market” Bookmark**
 1. In the **Selection Pane**, hide → *Category by Sales* visual.  
 2. In the **Bookmarks Pane**, click **Add** → Rename it → **Show Market**.  
 3. Select **Show Market Button** →  
