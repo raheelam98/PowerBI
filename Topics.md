@@ -22,7 +22,7 @@ Shows sub category in tables
 ---
 
 
-### **Charts – Unit 2**
+### **Charts – Unit 1**
 2. **Column Chart**  
 3. **Stacked Column Chart**  
 4. **Pie Chart**  
@@ -32,7 +32,7 @@ Shows sub category in tables
 8. **Include & Exclude in Power BI**  
 9. **View Data and Export CSV from Visuals**  
 
-### **Tables & Matrix – Unit 3**
+### **Tables & Matrix – Unit 2**
 1. **Create a Table**  
 2. **Format a Table**  
 3. **Apply Conditional Formatting**  
