@@ -14,6 +14,10 @@
 
 #### **3- Power BI – Bookmark**
 
+**Purpose:**  
+Bookmarks are used to **capture a specific view or state of a report page** (including filters, visuals, and visibility) so users can switch between customized views with a single click.
+
+
 **Purpose:**
 
 Bookmarks are used to **capture a specific view or state of a report page** (including filters, visuals, and visibility) so users can switch between customized views with a single click.
