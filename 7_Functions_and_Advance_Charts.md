@@ -5,7 +5,7 @@
 
 ---
 
-## **Power BI – Bookmark**
+### **Power BI – Bookmark**
 
 Bookmarks in Power BI are used to capture the current state of a report page (including filters, visuals, and visibility) so users can switch between customized views with a single click.
 
