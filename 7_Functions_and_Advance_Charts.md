@@ -58,4 +58,57 @@ Bookmarks in Power BI are used to capture the current state of a report page (in
 **Tip:**  
 Bookmarks can also be combined with buttons, slicers, and filters to create interactive report navigation or storytelling experiences in Power BI.
 
+---
 
+### **Drill Through Action**
+
+- **1.1. Stacked Bar Chart**
+  - **Y-Axis:** Category  
+  - **X-Axis:** Sales
+    
+- **1.2. Pie Chart**
+  - **Legend:** Market  
+  - **Values:** Category
+
+- **1.3. Create Buttons**
+   - **Button 1:** Sales Detail  
+   - **Button 2:** Market Detail
+     
+- **2. Sheet 1 : Tables**
+  - Table 1 → Sub-Category, Sales  
+  - Table 2 → Order Date, Sales  
+  - Table 3 → Category, Sales
+ 
+- **3. Sheet 2 : Tables**
+  - Table 1 → Customer Name, State  
+  - Table 2 → Market, Sales
+  
+**Apply Drill Through on Sheet 1**
+- **Format**
+  - **Page Information**
+    - **Name:** Drill Sheet One  (Sheet Name)
+    - **Page Type:** Drillthrough  
+    - **Keep All Filters / Cross-Report:** Off  
+    - **Drill Through From:** Category  
+
+**Apply Drill Through on Sheet 2**
+- **Format**
+  - **Page Information**
+    - **Name:** Drill Sheet Two  (Sheet Name)
+    - **Page Type:** Drillthrough  
+    - **Keep All Filters / Cross-Report:** Off  
+    - **Drill Through From:** Market
+
+**Apply Drill Through on Button 1 (Sales Detail)**
+- **Format Button**
+  - **Action**
+    - **Type:** Drillthrough   
+    - **Destination:** Sheet Name (Sheet 1)
+
+**Apply Drill Through on Button 2 (Market Detail)**
+- **Format Button**
+  - **Action**
+    - **Type:** Drillthrough   
+    - **Destination:** Sheet Name (Sheet 2)
+
+---
