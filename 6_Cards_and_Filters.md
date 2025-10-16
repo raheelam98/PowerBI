@@ -241,24 +241,22 @@ Used to navigate between pages with specific data context.
   - Table 1 → Customer Name, State  
   - Table 2 → Market, Sales  
 
-**Apply Filter on Sheet 1**
+**Apply Drill Through on Sheet 1**
+- **Format**
+  - **Page Information**
+    - **Name:** Drill Sheet One  (Sheet Name)
+    - **Page Type:** Drillthrough  
+    - **Keep All Filters / Cross-Report:** Off  
+    - **Drill Through From:** Category  
 
-**Format**
-- **Page Information**
-  - **Name:** Drill Sheet One  (Sheet Name)
-  - **Page Type:** Drillthrough  
-  - **Keep All Filters / Cross-Report:** Off  
-  - **Drill Through From:** Category  
 
-
-**Apply Filter on Sheet 2**
-
-**Format**
-- **Page Information**
-  - **Name:** Drill Sheet Two  (Sheet Name)
-  - **Page Type:** Drillthrough  
-  - **Keep All Filters / Cross-Report:** Off  
-  - **Drill Through From:** Market  
+**Apply Drill Through on Sheet 2**
+- **Format**
+  - **Page Information**
+    - **Name:** Drill Sheet Two  (Sheet Name)
+    - **Page Type:** Drillthrough  
+    - **Keep All Filters / Cross-Report:** Off  
+    - **Drill Through From:** Market  
 
 
 ---
