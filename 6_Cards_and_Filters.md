@@ -243,9 +243,9 @@ Used to navigate between pages with specific data context.
 
 **Apply Filter on Sheet 1**
 
-**Filter**
-- **Filter on this page**
-  - **Name:** Drill Sheet One  
+**Format**
+- **Page Information**
+  - **Name:** Drill Sheet One  (Sheet Name)
   - **Page Type:** Drillthrough  
   - **Keep All Filters / Cross-Report:** Off  
   - **Drill Through From:** Category  
@@ -253,9 +253,9 @@ Used to navigate between pages with specific data context.
 
 **Apply Filter on Sheet 2**
 
-**Filter**
-- **Filter on this page**
-  - **Name:** Drill Sheet Two  
+**Format**
+- **Page Information**
+  - **Name:** Drill Sheet Two  (Sheet Name)
   - **Page Type:** Drillthrough  
   - **Keep All Filters / Cross-Report:** Off  
   - **Drill Through From:** Market  
