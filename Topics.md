@@ -1,5 +1,25 @@
 ## **Power BI - Topics**
 
+**Chart**
+- Title :- top (name )
+- Legend :- labels
+- Detail labels :-   data values
+
+**Donut chart** 
+- Donut chart  (Build) —> legend / value / detail / tooltips
+- Donut chart (Format) —> size and style / title / legend / slices / detail label / rotation
+
+**Notes**
+- Tooltips :- Line and Stacked Column chart (Build) —> tooltip (sub category)
+Shows sub category in tables
+    - Tooltip —> (right click) Data —> Summarization (sum / average / min / max / count / sd / variance / median )
+- Export data :-Send selected data to the client in of excel or cvs files
+- Markers : change shape and color of markers
+    - (Format) —> Mark —> Shape ( type —> dash) remove the shape
+- Set Year in Date 
+    - Date hierarchy —> right click —>  cross all accept years
+
+
 ### **Introduction & Data Loading – Unit 1**
 1. **Introduction to Power BI**  
 2. **Installing Power BI Desktop**  
@@ -44,6 +64,18 @@
 6. **Number Slicer**  
 
 ### **Charts Visualization Tools – Unit 5**
+1. Waterfall Chart
+2. Gauge Chart
+3. Line Chart
+4. Line Chart Drill with Slicer
+5. Area chart
+6. Stack Area Chart
+7. Line vs Stacked Column Chart
+8. Line vs Clustered Chart
+9. Scatter Plot - use numeric value (use animation -  export file)
+10. Tree map
+
+
 1. **Introduction to Visualization Charts**  
 2. **Waterfall Chart**  
 3. **Gauge Chart**  
