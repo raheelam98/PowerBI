@@ -14,7 +14,7 @@
 
 #### **3- Power BI – Bookmark**
 
-**Purpose**
+**Purpose:**
 Bookmarks are used to **capture a specific view or state of a report page** (including filters, visuals, and visibility) so users can switch between customized views with a single click.
 
 #### **Pie Chart**
@@ -70,7 +70,7 @@ Bookmarks can also be combined with buttons, slicers, and filters to create inte
 
 ### **4- Drill Through Action**
 
-**Purpose**
+**Purpose:**
 Allows users to **navigate to another report page** that shows **detailed information** about a selected data point.
 
 - **1.1. Stacked Bar Chart**
@@ -123,9 +123,6 @@ Allows users to **navigate to another report page** that shows **detailed inform
     - **Destination:** Sheet Name (Sheet 2)
 
 ---
----
-
-
 
 ### **5- KPI Visualization Tools**
 
