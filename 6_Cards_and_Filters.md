@@ -223,21 +223,21 @@ Used to navigate between pages with specific data context.
 **Example Setup**
 
 **Drill Throuh - Sheet**
-- **Stacked Bar Chart**
+
+- **1.1. Stacked Bar Chart**
   - **Y-Axis:** Category  
   - **X-Axis:** Sales
     
-- **Pie Chart**
+- **1.2. Pie Chart**
   - **Legend:** Market  
   - **Values:** Category
      
-- **Sheet 1 : Tables**
+- **2. Sheet 1 : Tables**
   - Table 1 → Sub-Category, Sales  
   - Table 2 → Order Date, Sales  
   - Table 3 → Category, Sales
  
-**Sheet 2 : Tables**
-- **Tables**
+- **3. Sheet 2 : Tables**
   - Table 1 → Customer Name, State  
   - Table 2 → Market, Sales  
 
