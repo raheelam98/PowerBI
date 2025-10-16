@@ -156,7 +156,7 @@ Used to filter only one visual.
 
 #### **Pie Chart**
 - **Legend:** Category  
-- **Values:** Sales
+- **Values:** Sales 
 
 **Apply Filter : Pie Chart**
 - **Filter**
