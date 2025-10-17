@@ -65,7 +65,7 @@ Used to show earliest and latest order dates.
 **Apply Filter : Highest Discount**
 - **Filter** →
   - Add data field → Order Date
-    - Filter type → Top N
+    - Filter type → Top N 
     - Show items: 1
     - By value  → Discount
     - Click **Apply Filter**
