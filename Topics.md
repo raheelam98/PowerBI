@@ -134,3 +134,4 @@ Shows sub category in tables
 
 [Power BI in Depth Tutorials - The iScale - 2023](https://www.youtube.com/playlist?list=PLxzTa0VPR9rw4QEQ49PdsFd3SmVXDR3-i)
 
+[21 Days of Power BI DAX Challenge - Pavan Lalwani - 2025](https://www.youtube.com/playlist?list=PL6Omre3duO-Nrn_V_qnKEp79dXLolDKU9)
