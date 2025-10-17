@@ -5,7 +5,7 @@
 2. Pie | Donut Chart | Stacked Column Charts
 3. Clustered Bar Chart | Map 
 
-
+---
 
 ### **Slicers, Cards & Insert Formatting  -1**
 
@@ -49,7 +49,7 @@
 	- Font : 35
 ---
 
-Pie | Donut Chart | Stacked Column Charts - 2
+### **Pie | Donut Chart | Stacked Column Charts - 2**
 
 #### **Pie Chart**
 - **Legend:**  Segment
@@ -80,8 +80,9 @@ Pie | Donut Chart | Stacked Column Charts - 2
     - Show items →  10
     - By value  → Profit
     - Click **Apply Filter**
+---
 
-Clustered Bar Chart | Map - 3
+### **Clustered Bar Chart | Map - 3**
 
 #### **Cluster Bar Chart - Bottom 5 Profit By Product**
 - **X-Axis:** product name
