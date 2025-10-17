@@ -97,12 +97,20 @@ Shows sub category in tables
 8. Python & R Scripting  (do later)
 9. Third-Party Extension Icon (do later)
 
+### **Sales and Profit Report – Unit 8**
+
+**Developing Visualization Models** 
+1. Slicers, Cards & Insert Formatting 
+2. Pie | Donut Chart
+3. Stacked Column Charts | Clustered Bar Chart
+4. Map
+
 
 ---
 
 
 ### **Create a Superstore Report – Unit 11**
-**Amazon Global Superstore (End-to-End Project)**  
+]
 1. **Connecting Database (Excel, SQL, Web, etc.)**  
 2. **Analyzing Tables & Relations**  
 3. **Data Cleaning – Power Query Editor DAX**  
@@ -116,4 +124,13 @@ Shows sub category in tables
 3. **Pin Live Dashboard in Power BI**  
 4. **Use Comment, Share & Subscribe**  
 5. **Refresh Reports Automatically**  
-6. **Free Data Files Source for Practice**  
+6. **Free Data Files Source for Practice**
+
+---
+
+### **Power BI Tutorial**
+
+[Power Bi Dashboard Design – Create a Simple yet PROFESSIONAL Power BI Dashboard - Yiannis Pitsillides - 2024](https://www.youtube.com/watch?v=f_srzswu978)
+
+[Power BI in Depth Tutorials - The iScale - 2023](https://www.youtube.com/playlist?list=PLxzTa0VPR9rw4QEQ49PdsFd3SmVXDR3-i)
+
