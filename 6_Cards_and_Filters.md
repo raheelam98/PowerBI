@@ -168,7 +168,7 @@ Used to filter only one visual.
 - **X-Axis:** Sub-Category  
 - **Y-Axis:** Sales
 
-**Apply Filter : Stacked Column Chart**
+**Apply Filter : Stacked Column Chart**  
 - **Filter**
     - Add data field here → Sub category
       - Filter type → Basic filter
