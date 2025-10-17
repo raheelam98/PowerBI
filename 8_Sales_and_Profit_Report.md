@@ -2,8 +2,9 @@
 
 **Sales and Profit Report**
 1. Slicers, Cards & Insert Formatting 
-2. Pie | Donut Chart | Stacked Column Charts
-3. Clustered Bar Chart | Map 
+2. Pie | Donut Chart 
+3. Stacked Column Charts | Clustered Bar Chart
+4. Map
 
 ---
 
@@ -69,6 +70,10 @@
 - **Legend:**   Market
 - **Values:** Sales
 
+---
+
+### **Stacked Column Charts | Clustered Bar Chart - 3**
+
 #### **Stacked Column Chart - Profit by Customer**
 - **X-Axis:** customer name
 - **Y-Axis:** profit
@@ -80,9 +85,7 @@
     - Show items →  10
     - By value  → Profit
     - Click **Apply Filter**
----
 
-### **Clustered Bar Chart | Map - 3**
 
 #### **Cluster Bar Chart - Bottom 5 Profit By Product**
 - **X-Axis:** product name
@@ -107,6 +110,8 @@
     - Show items →  5
     - By value  → Profit
     - Click **Apply Filter**
+---
+### **Map - 4**
 
 #### **Map - Sales By Region**
 - **Location:** region
