@@ -105,12 +105,20 @@ Shows sub category in tables
 3. Stacked Column Charts | Clustered Bar Chart
 4. Map
 
+### **Sport Report – Unit 9**
+
+**Analyze the dataset and review the following problem statements.**
+1. Medals Won by Gender %
+2. Male and Female Ratios by Year
+3. Top 10 Countries by Medals
+4. Top Olympic Medallists by Total Medals
+5. Total Number of Participating Countries
+6. Total Number of Sports
 
 ---
 
 
 ### **Create a Superstore Report – Unit 11**
-]
 1. **Connecting Database (Excel, SQL, Web, etc.)**  
 2. **Analyzing Tables & Relations**  
 3. **Data Cleaning – Power Query Editor DAX**  
